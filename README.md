@@ -1,0 +1,1 @@
+# ConsolPratik-Encapsulatio
